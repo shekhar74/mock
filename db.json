@@ -2,7 +2,7 @@
     "users": [ ],
     "todo":[ ],
     "product":[ ],
-    "cart":[],
-    "wish":[ ],
+    "cars":[],
+    "wishlisted_cars":[ ],
     "stored":[ ]
 }
